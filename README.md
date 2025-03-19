@@ -17,4 +17,4 @@ I used this commands:
     we can create a folder and make changes abour its properties.When we uplod the file to github with git we can save in long term.
     ı used the git add . for remove to stage are after that ı used the git commit -m "massege" for remove to local repository
 
-    sometimes  my codes didn't work ı take the errors but when ı open the terminal again its fixed
+    sometimes  my codes didn't work ı take the errors but when ı open the terminal again its fixed. Secondly when ı update my file ı cant update the folder which in the classroom. Aftr that I delete the folder in the classroom ı try to upload again but ı cant and  ı upload with my hand.
