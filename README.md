@@ -1,8 +1,4 @@
 # My-Project
-
-
-
-
 ![image](https://github.com/user-attachments/assets/d729572e-19f8-4ccc-a7de-5bea6ab6be01)
 
 I used this commands:
