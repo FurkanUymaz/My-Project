@@ -11,7 +11,8 @@ I used this commands:
     git status
     git add . 
     git commit -m "güncellendi"
-    git push origin main
+    git push -u origin main
+    git push
     git remote add path
     git clone path
     cd
